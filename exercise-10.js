@@ -1,5 +1,5 @@
 // Jansen - Hacktiv8 Batch 37 - King Fox
-// Exercise 9 - Compare Numbers
+// Exercise 10 - Compare Numbers
 
 // Comparing 2 numbers
 function bandingkanAngka(angka1, angka2) {

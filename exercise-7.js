@@ -4,7 +4,7 @@
 // No 1. Menyusun Barisan Bintang
 let rows1 = 5; // input the number of rows
 
-for (counter = 1; counter <= rows1; counter++) {
+for (let counter = 1; counter <= rows1; counter++) {
     console.log('*');
 }
 
